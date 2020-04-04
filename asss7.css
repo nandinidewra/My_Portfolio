@@ -1,0 +1,28 @@
+table
+{
+	text-align:center;
+	border:1px solid grey;
+	margin-left:400px;
+	margin-top:250px;
+	border-color:black;
+	border-width:3px;
+	background-image:url(lightpurple.jpg);
+}
+body
+{
+	background-image:url(purple.jpg);
+}
+#white
+{
+	color:blue;
+}
+td
+{
+	font-weight:bold;
+	color:white;
+}
+th
+{
+	color:white;
+	font-weight:bold;
+}
